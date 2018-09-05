@@ -7,7 +7,7 @@ desired file/folder/program or website when the user bound key is pressed.
 Current version: 1.0.0
 Python version: 3.4.4 | 32bit | win32
 Tested on: Windows 10
-License: MIT(see LICENSE.txt)
+License: MIT(see LICENSE file)
 Binary version created with: cx_Freeze | cx_Freeze-4.3.4.win32-py3.4.exe
 
 # Building the project(cx_Freeze)
