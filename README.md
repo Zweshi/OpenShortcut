@@ -11,6 +11,11 @@ Tested on: Windows 10
 License: MIT(see LICENSE file)  
 Binary version created with: cx_Freeze | cx_Freeze-4.3.4.win32-py3.4.exe  
 
+# Binary version
+If you do not want to compile the code yourself you can opt to download a binary
+of the latest version via the following link:  
+https://github.com/Zweshi/OpenShortcut/releases/download/1.0.0/OpenShortcut-1.0.0.zip
+
 # Building the project(cx_Freeze)
 OpenShortcut is setup and ready to be built with cx_Freeze via the Build.py file.  
 
