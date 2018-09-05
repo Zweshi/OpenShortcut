@@ -1,7 +1,7 @@
 # OpenShortcut
-A tool for creating keyboard shortcuts to files, folders, programs and websites.
-OpenShortcut works both in the foreground and the background and will launch the
-desired file/folder/program or website when the user bound key is pressed.
+A tool for creating keyboard shortcuts to files, folders, programs and websites.  
+OpenShortcut works both in the foreground and the background and will launch the  
+desired file/folder/program or website when the user bound key is pressed.  
 
 # General info
 Current version: 1.0.0  
