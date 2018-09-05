@@ -5,6 +5,7 @@ desired file/folder/program or website when the user bound key is pressed.
 
 # General info
 Current version: 1.0.0  
+Current state: Stable  
 Python version: 3.4.4 | 32bit | win32  
 Tested on: Windows 10  
 License: MIT(see LICENSE file)  
