@@ -1,0 +1,19 @@
+The images within the /Images and /Images_Source sub folders are licensed under the CC-BY-3.0 license via the website games-icons.net.
+
+License:
+https://creativecommons.org/licenses/by/3.0/
+
+Original Image links:
+Cog icon by Lorc:                                     https://game-icons.net/lorc/originals/cog.html
+Perspective dice 6 faces random icon by delapouite:   https://game-icons.net/delapouite/originals/perspective-dice-six-faces-random.html
+Open folder icon by delapouite:                       https://game-icons.net/delapouite/originals/open-folder.html
+Files icon by delapouite:                             https://game-icons.net/delapouite/originals/files.html
+Compact Disc icon by delapouite:                      https://game-icons.net/delapouite/originals/compact-disc.html
+Earth Africa & Europe icon by delapouite:             https://game-icons.net/delapouite/originals/earth-africa-europe.html
+
+Artist websites:
+Lorc: http://lorcblog.blogspot.com/
+delapouite: https://delapouite.com/
+
+Modifications:
+Images have been rescaled from their original sizes.

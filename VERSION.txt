@@ -1,0 +1,12 @@
+OpenShortcut version: 1.0.0
+Python version: 3.4.4 | 32bit | win32
+Tested on: Windows 10
+License: MIT(see LICENSE.txt)
+Exe created with: cx_Freeze | cx_Freeze-4.3.4.win32-py3.4.exe
+
+Software Author(OpenShortcut): Jonas Melander
+
+Operating systems:
+OpenShortcut has only been tested on windows 10 and should at this time not be considered
+cross platform. Should you wish to contribute towards making OpenShortcut cross platform you
+are more then welcome to provide changes towards that end.
