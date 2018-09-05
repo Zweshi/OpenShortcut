@@ -11,8 +11,9 @@ License: MIT(see LICENSE file)
 Binary version created with: cx_Freeze | cx_Freeze-4.3.4.win32-py3.4.exe  
 
 # Building the project(cx_Freeze)
-OpenShortcut is setup and ready to be built with cx_Freeze via the Build.py file.
+OpenShortcut is setup and ready to be built with cx_Freeze via the Build.py file.  
 
-Please note: You may need to move over the _cpyHook.pyd file from your python lib
+Please note:  
+You may need to move over the _cpyHook.pyd file from your python lib
 directory into the output directory if its not copied over correctly by your
 version of cx_Freeze.
