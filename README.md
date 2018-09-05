@@ -23,3 +23,7 @@ Please note:
 You may need to move over the _cpyHook.pyd file from your python lib
 directory into the output directory if its not copied over correctly by your
 version of cx_Freeze.
+
+# TODO
+1. Add Key combinations not just single key presses.
+2. Expand the number of bindable shortcuts.
